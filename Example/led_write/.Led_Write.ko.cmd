@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/Linux_Vscode/led_write/Led_Write.ko := arm-linux-ld -EL -r  -T /opt/opt/EmbedSky/TQ210/kernel/scripts/module-common.lds --build-id  -o /mnt/hgfs/Linux_Vscode/led_write/Led_Write.ko /mnt/hgfs/Linux_Vscode/led_write/Led_Write.o /mnt/hgfs/Linux_Vscode/led_write/Led_Write.mod.o

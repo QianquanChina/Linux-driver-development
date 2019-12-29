@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/Linux_Vscode/State_Machine_Key/Key_Drv.ko := arm-linux-ld -EL -r  -T /opt/opt/EmbedSky/TQ210/kernel/scripts/module-common.lds --build-id  -o /mnt/hgfs/Linux_Vscode/State_Machine_Key/Key_Drv.ko /mnt/hgfs/Linux_Vscode/State_Machine_Key/Key_Drv.o /mnt/hgfs/Linux_Vscode/State_Machine_Key/Key_Drv.mod.o

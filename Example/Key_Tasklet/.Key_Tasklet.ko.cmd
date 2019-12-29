@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/Linux_Vscode/Key_Tasklet/Key_Tasklet.ko := arm-linux-ld -EL -r  -T /opt/opt/EmbedSky/TQ210/kernel/scripts/module-common.lds --build-id  -o /mnt/hgfs/Linux_Vscode/Key_Tasklet/Key_Tasklet.ko /mnt/hgfs/Linux_Vscode/Key_Tasklet/Key_Tasklet.o /mnt/hgfs/Linux_Vscode/Key_Tasklet/Key_Tasklet.mod.o

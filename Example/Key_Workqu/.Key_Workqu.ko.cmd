@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/Linux_Vscode/Key_Workqu/Key_Workqu.ko := arm-linux-ld -EL -r  -T /opt/opt/EmbedSky/TQ210/kernel/scripts/module-common.lds --build-id  -o /mnt/hgfs/Linux_Vscode/Key_Workqu/Key_Workqu.ko /mnt/hgfs/Linux_Vscode/Key_Workqu/Key_Workqu.o /mnt/hgfs/Linux_Vscode/Key_Workqu/Key_Workqu.mod.o
